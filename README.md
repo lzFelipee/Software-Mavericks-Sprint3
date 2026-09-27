@@ -372,7 +372,7 @@ BUILD SUCCESS
 Clone o repositório:
 
 ```
-git clone https://github.com/lzFelipee/Software-Mavericks.git
+git clone https://github.com/lzFelipee/Software-Mavericks-Sprint3
 ```
 
 Entre na pasta:
